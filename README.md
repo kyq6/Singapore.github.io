@@ -17,7 +17,7 @@
     <h1>[Find 100 Cats] - Privacy Policy</h1>
 
     <section>
-        <p><strong>Effective Date:</strong> [YYYY-MM-DD]</p>
+        <p><strong>Effective Date:</strong> [2026-02-26]</p>
         <p><strong>Company:</strong> [SINGAPORE PIXELFORGE TECHNOLOGY PTE. LTD.], [ 503 CANBERRA DRIVE, #02-10, CANBERRA RESIDENCES, SINGAPORE 768125], Singapore</p>
 
         <h2>1. Information We Collect</h2>
